@@ -126,7 +126,7 @@
       "ssh_password": "changeme",
       "ssh_port": 22,
       "ssh_wait_timeout": "90m",
-      "vm_name": "centos6_openstack",
+      "vm_name": "centos6_openstack.qcow2",
       "net_device": "virtio-net",
       "disk_interface": "virtio",
       "boot_command": [
